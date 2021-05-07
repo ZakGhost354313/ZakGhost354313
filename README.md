@@ -16,6 +16,12 @@ Planet Minecraft: GhostKiller3543
 
 }
 
+bio: 
+- I just write code and play minecraft(bedrock). I make minecraft addons, and am currently working on a minecraft realm and school work, so i cant be on forever. 
+
+
+
+
 <!---
 ZakGhost354313/ZakGhost354313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
