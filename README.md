@@ -9,16 +9,19 @@
   - FIO Handle: ghostkiller7724@opera
   - Cronos: 0x57bc0FfdDb13a1E3414F5e0edB701783878b7154
 - 📫 How to reach me {
-- - Gmail:MBM3543@gmail.com
+- - Gmail (Personal/Work): MBM3543@gmail.com
   - XBox: GhostKiller7724
   - PSN (PS4): GhostKiller35431
   - Minecraft Forum: ghostkiller3543
   - Planet Minecraft: GhostKiller3543
+  - IRC: see [irc.md](./irc.md)
+  - Discord: GhostKiller3543#3683 (might be wrong)
+  - Matrix:
+  - 
 }
 
 bio: 
-- I just write code and play minecraft(bedrock). I make minecraft addons, and am currently working on a minecraft realm and school work, so i cant be on forever. 
-
+- I just write code and play minecraft.
 
 
 
