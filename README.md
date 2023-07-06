@@ -18,7 +18,8 @@
   - Discord: GhostKiller3543#3683 (might be wrong)
   - Matrix:
   - Reddit: [u/GhostKiller35431](https://www.reddit.com/user/GhostKiller35431)
-  - Instagram: []()
+  - Instagram: [twophonesnotits3543](https://www.instagram.com/twophonesnotits3543/)
+  - Tox: 
 }
 
 bio: 
