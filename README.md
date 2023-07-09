@@ -5,9 +5,10 @@
 - 💞️ I’m looking to collaborate on a minecraft bedrock addon
 - Send Me Money:
 - - Bitcoin: 3BMpvQ3xmdSfK36N2YiVhWPAR9uNgnX9qW
+  - Monero: 44NAgif7e2LXz6rNHYkwjhCWNxQDX9reB2Wdsk4EQrBoSpWrFyaWWpKYMvTbERes98VyPzLPgFMC8YmKCpuSoS8hKddiXzD
   - Ether (Ethereum): 0x57bc0FfdDb13a1E3414F5e0edB701783878b7154
-  - FIO Handle: ghostkiller7724@opera
   - Cronos: 0x57bc0FfdDb13a1E3414F5e0edB701783878b7154
+  - FIO Handle: ghostkiller7724@opera
 - 📫 How to reach me {
 - - Gmail (Personal/Work): [MBM3543@gmail.com](mailto:mbm3543@gmail.com)
   - XBox: GhostKiller7724
@@ -16,10 +17,10 @@
   - Planet Minecraft: GhostKiller3543
   - IRC: see [irc.md](./irc.md)
   - Discord: GhostKiller3543#3683 (might be wrong)
-  - Matrix:
   - Reddit: [u/GhostKiller35431](https://www.reddit.com/user/GhostKiller35431)
   - Instagram: [twophonesnotits3543](https://www.instagram.com/twophonesnotits3543/)
   - Tox: 
+  - Matrix:
 }
 
 bio: 
