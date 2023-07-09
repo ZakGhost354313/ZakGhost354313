@@ -8,7 +8,9 @@ wip
 
 ## servers
 <!-- - [irc.chat4all.org](irc://irc.chat4all.org) -->
-- [irc.esper.net](irc://irc.esper.net)*
-- [irc.freenode.net](irc://irc.freenode.net)*
-<!-- - [irc.quakenet.org](irc://irc.quakenet.org) -->
-- []()
+- [Libera Chat](irc://irc.libera.chat)
+- [EsperNet](irc://irc.esper.net)
+- [Freenode](irc://irc.freenode.net)
+- [QuakeNet](irc://irc.quakenet.org)
+- [SpotChat](irc://irc.spotchat.org)
+- [GIMPNet](irc://irc.gimp.org)
