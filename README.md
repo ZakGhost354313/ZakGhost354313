@@ -11,14 +11,15 @@
   - FIO Handle: ghostkiller7724@opera
 - 📫 How to reach me {
 - - Gmail (Personal/Work): [MBM3543@gmail.com](mailto:mbm3543@gmail.com)
-  - XBox: GhostKiller7724
-  - PSN (PS4): GhostKiller35431
-  - Minecraft Forum: ghostkiller3543
-  - Planet Minecraft: GhostKiller3543
+  - XBox: [GhostKiller7724](https://account.xbox.com/Profile?Gamertag=GhostKiller7724)
+  - PSN (PS4): [GhostKiller35431](https://psnprofiles.com/GhostKiller35431)
+  - Minecraft Forum: [ghostkiller3543](https://www.minecraftforum.net/members/ghostkiler3543)
+  - Planet Minecraft: [GhostKiller3543](https://www.planetminecraft.com/member/ghostkiller3543/)
   - IRC: see [irc.md](./irc.md)
   - Discord: GhostKiller3543#3683 (might be wrong)
   - Reddit: [u/GhostKiller35431](https://www.reddit.com/user/GhostKiller35431)
   - Instagram: [twophonesnotits3543](https://www.instagram.com/twophonesnotits3543/)
+  - Twitch: [ghostkiler3543](https://www.twitch.tv/ghostkiler3543)
   - Tox: 
   - Matrix:
 }
