@@ -1,12 +1,14 @@
 # irc.md
-wip
+**This is a WIP page**
+
+I use HexChat as my IRC client.
 
 ## nicknames
 - GhostKiller7724
 - GhostKiller7724_
 - GhostKiller7724__
 
-## servers
+## Servers
 <!-- - [irc.chat4all.org](irc://irc.chat4all.org) -->
 - [Libera Chat](irc://irc.libera.chat)
 - [EsperNet](irc://irc.esper.net)
