@@ -25,8 +25,10 @@
   - Twitch:                 [ghostkiler3543](https://www.twitch.tv/ghostkiler3543)
   - Tox: 
   - Matrix:
+<br/>
+<br/>
 
-
+[![forthebadge](https://forthebadge.com/images/badges/does-not-contain-treenuts.svg)](https://forthebadge.com)
 
 
 <!---
