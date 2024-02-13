@@ -13,7 +13,7 @@
 - 📫 How to reach me 
   - Gmail :                 [MBM3543@gmail.com](mailto:mbm3543@gmail.com)
   - Proton :                [GhostKiller7724@proton.me](mailto:ghostkiller7724@proton.me)
-  - Cock.li:                [mbm3543@cumallover.me](mailto:mbm3543@cumallover.me)
+  - Cock.li:                [mbm3543@cumallover.me](mailto:mbm3543@cumallover.me) [pgp](https://raw.githubusercontent.com/ZakGhost354313/ZakGhost354313/main/Ghost.pub.asc)
   - XBox:                   [GhostKiller7724](https://account.xbox.com/Profile?Gamertag=GhostKiller7724)
   - PSN (PS4):              [GhostKiller35431](https://psnprofiles.com/GhostKiller35431)
   - Minecraft Forum:        [ghostkiller3543](https://www.minecraftforum.net/members/ghostkiler3543)
