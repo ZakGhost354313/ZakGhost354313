@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning IT, Security, Computer Stuff
 - Currently working on my [Printer Driver Installer for Linux](https://github.com/ZakGhost354313/printer-drivers-linux)
 - 💞️ I’m looking to collaborate on pretty much anything
-<!--- Send Me Money:
+<!--- Send Me Money: dont use these, they no worky, they're here for my records so i can find out if i can get them back n stuff
   - Bitcoin: 3BMpvQ3xmdSfK36N2YiVhWPAR9uNgnX9qW
   - Monero: 44NAgif7e2LXz6rNHYkwjhCWNxQDX9reB2Wdsk4EQrBoSpWrFyaWWpKYMvTbERes98VyPzLPgFMC8YmKCpuSoS8hKddiXzD
   - Ether (Ethereum): 0x57bc0FfdDb13a1E3414F5e0edB701783878b7154
@@ -12,7 +12,7 @@
   - FIO Handle: ghostkiller7724@opera -->
 - 📫 How to reach me 
   - Gmail :                 [MBM3543@gmail.com](mailto:mbm3543@gmail.com)
-  - Proton :                [GhostKiller7724@proton.me](mailto:ghostkiller7724@proton.me)
+  <!--- Proton :                [GhostKiller7724@proton.me](mailto:ghostkiller7724@proton.me)-->
   - Cock.li:                [mbm3543@cumallover.me](mailto:mbm3543@cumallover.me) [pgp](https://raw.githubusercontent.com/ZakGhost354313/ZakGhost354313/main/Ghost.pub.asc)
   - XBox:                   [GhostKiller7724](https://account.xbox.com/Profile?Gamertag=GhostKiller7724)
   - PSN (PS4):              [GhostKiller35431](https://psnprofiles.com/GhostKiller35431)
